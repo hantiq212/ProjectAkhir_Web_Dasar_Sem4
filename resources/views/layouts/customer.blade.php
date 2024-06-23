@@ -14,7 +14,7 @@
             </div>
             <p>Saya mengerjakan pada bagian halaman utama index dan bagian route ke halaman login dan database yang mungkin akan diupdate kedepannya</p>
             <h2>Riko Zaki Santoso</h2>
-            <img src="{{ asset('img/asset/tes.jpg') }}" alt="">
+            <img src="{{ asset('img/asset/riko.jpg') }}" alt="">
         </div>
         <div class="box">
             <div class="bintang">
