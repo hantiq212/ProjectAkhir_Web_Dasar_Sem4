@@ -5,7 +5,7 @@
     <i class="bx bx-menu" id="menu-icon"></i>
     <ul class="nvbr">
         <li><a href="/">Beranda</a></li>
-        <li><a href="">Produk</a></li>
+        <li><a href="../logged/products/cart/carts.blade.php">Produk</a></li>
         <li><a href="#customer">Customer's</a></li>
         <li><a href="#about">Tentang</a></li>
     </ul>
