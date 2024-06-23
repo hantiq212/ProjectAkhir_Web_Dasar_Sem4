@@ -12,7 +12,7 @@
                 <i class="bx bxs-star"></i>
                 <i class="bx bxs-star-half"></i>
             </div>
-            <p>Saya mengerjakan pada bagian halaman utama index dan bagian route ke halaman login dan database yang mungkin akan diupdate kedepannya</p>
+            <p>Saya mengerjakan pada bagian halaman utama index responsive dan bagian route ke halaman login dan database yang mungkin akan diupdate kedepannya</p>
             <h2>Riko Zaki Santoso</h2>
             <img src="{{ asset('img/asset/riko.jpg') }}" alt="">
         </div>
